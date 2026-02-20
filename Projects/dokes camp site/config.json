@@ -3,8 +3,9 @@
   "imagePrefix": "slice_",
   "imageExtension": ".jpg",
   "numberOfSlices": 61,
-  "firstDepth": 0.00001,
+  "firstDepth": 0.013672,
   "depthStep": 0.013672,
   "assumedVelocity": 70
 }
+
 
