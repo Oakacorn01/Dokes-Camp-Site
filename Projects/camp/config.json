@@ -1,9 +1,9 @@
 {
   "title": "Dokes Camp Site",
-  "imagePrefix": "slice_",
+  "imagePrefix": "camp_",
   "imageExtension": ".jpg",
   "numberOfSlices": 61,
-  "firstDepth": 0.006834,
+  "firstDepth": 0.013672,
   "depthStep": 0.013672,
   "assumedVelocity": 70
 }
